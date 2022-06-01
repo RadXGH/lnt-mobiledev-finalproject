@@ -1,6 +1,6 @@
 # Movie App - LNT Mobile Dev - Final Project
-Android app built with Java. Uses.
-[The Movie Database (TMDb) API](https://www.themoviedb.org/documentation/api) to fetch data.
+Android app built with Java.
+Uses [The Movie Database (TMDb) API](https://www.themoviedb.org/documentation/api) to fetch data.
 
 ## Features
 - Google account login.
